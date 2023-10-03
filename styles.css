@@ -1,0 +1,16 @@
+#reduxEmail, #reduxCel {
+    font-size: 1.6rem;
+}
+
+@media (max-width: 768px) {
+    #reduxEmail, #reduxCel {
+        font-size: 1rem;
+    };
+}
+
+@media (max-width: 768px){
+    #nav-page{
+        font-size: 0.8rem;
+        
+    }
+}
